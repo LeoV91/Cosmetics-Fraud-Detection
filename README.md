@@ -2,6 +2,22 @@
 
 This Jupyter Notebook demonstrates a comprehensive approach to detecting fraudulent transactions in the luxury cosmetics sector. It includes data preprocessing, feature engineering, handling class imbalance, and training multiple machine learning models. The goal is to identify fraudulent transactions effectively while minimizing false positives and negatives.
 
+## Dataset
+
+The dataset used in this project is the Card Fraud Detection in Luxury Retail Analytics Dataset, available on Kaggle:
+ https://www.kaggle.com/datasets/pratyushpuri/payment-card-fraud-detection-with-ml-models-2025
+
+Overview
+	•	Records: 2,133 transactions
+	•	Features: 16 columns
+	•	Target Variable: Fraud_Flag (binary classification: Fraud vs. Non-Fraud)
+	•	Time Period: February 2025 – August 2025 (6 months)
+	•	Coverage: 20 luxury retail locations worldwide
+	•	Industry Focus: High-end cosmetics and beauty products
+	•	Notes: Includes intentionally inserted null values to simulate real-world data cleaning scenarios.
+
+This dataset is synthetic but curated to reflect realistic fraud detection challenges in luxury retail.
+
 ## Key Features
 
 1. **Data Exploration**:
