@@ -8,13 +8,13 @@ The dataset used in this project is the Card Fraud Detection in Luxury Retail An
  https://www.kaggle.com/datasets/pratyushpuri/payment-card-fraud-detection-with-ml-models-2025
 
 Overview
-	•	Records: 2,133 transactions
-	•	Features: 16 columns
-	•	Target Variable: Fraud_Flag (binary classification: Fraud vs. Non-Fraud)
-	•	Time Period: February 2025 – August 2025 (6 months)
-	•	Coverage: 20 luxury retail locations worldwide
-	•	Industry Focus: High-end cosmetics and beauty products
-	•	Notes: Includes intentionally inserted null values to simulate real-world data cleaning scenarios.
+- Records: 2,133 transactions
+- Features: 16 columns
+- Target Variable: Fraud_Flag (binary classification: Fraud vs. Non-Fraud)
+- Time Period: February 2025 – August 2025 (6 months)
+- Coverage: 20 luxury retail locations worldwide
+- Industry Focus: High-end cosmetics and beauty products
+- Notes: Includes intentionally inserted null values to simulate real-world data cleaning scenarios.
 
 This dataset is synthetic but curated to reflect realistic fraud detection challenges in luxury retail.
 
