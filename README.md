@@ -43,5 +43,3 @@ This Jupyter Notebook demonstrates a comprehensive approach to detecting fraudul
 1. Clone the repository and install the required dependencies.
 2. Load the dataset into the `archive/` directory.
 3. Run the notebook to preprocess the data, train models, and evaluate results.
-
-This project provides a robust framework for fraud detection and can be adapted to other domains with similar challenges.
