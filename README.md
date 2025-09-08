@@ -7,7 +7,7 @@ This Jupyter Notebook demonstrates a comprehensive approach to detecting fraudul
 The dataset used in this project is the Card Fraud Detection in Luxury Retail Analytics Dataset, available on Kaggle:
  https://www.kaggle.com/datasets/pratyushpuri/payment-card-fraud-detection-with-ml-models-2025
 
-Overview
+**Overview**
 - Records: 2,133 transactions
 - Features: 16 columns
 - Target Variable: Fraud_Flag (binary classification: Fraud vs. Non-Fraud)
