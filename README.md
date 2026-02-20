@@ -1,6 +1,6 @@
 # Payment Card Fraud Detection
 
-This Jupyter Notebook demonstrates a comprehensive approach to detecting fraudulent transactions in the luxury cosmetics sector. It includes data preprocessing, feature engineering, handling class imbalance, and training multiple machine learning models. The goal is to identify fraudulent transactions effectively while minimizing false positives and negatives.
+This Jupyter Notebook demonstrates an approach to detecting fraudulent transactions in the luxury cosmetics sector. It includes data preprocessing, feature engineering, handling class imbalance, and training multiple machine learning models. The goal is to identify fraudulent transactions effectively while minimizing false positives and negatives.
 
 ## Dataset
 
